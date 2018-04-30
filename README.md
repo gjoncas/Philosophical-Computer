@@ -20,12 +20,12 @@ Most of the book chapters are also published as papers, listed below.
 
 ## References
 <ul>
-<li>Grim, P. (1993). “Self-reference and chaos in fuzzy logic.” <i>IEEE Transactions on Fuzzy Systems</i> 1(4), pp. 237-53</li>
+<li>Grim, P. (<a href="http://www.pgrim.org/articles/self-referenceandchaosinfuzzylogic.pdf">1993</a>). “Self-reference and chaos in fuzzy logic.” <i>IEEE Transactions on Fuzzy Systems</i> 1(4), pp. 237-53</li>
 <li>Grim, P. (1995). “The Greater Generosity of the Spatialized Prisoner's Dilemma.” <i>Journal of Theoretical Biology</i> 173(4), pp. 353-9</li>
 <li>Grim, P. (1996). “Spatialization & Greater Generosity in the Stochastic Prisoner's Dilemma.” <i>BioSystems</i> 37(1-2), pp. 3-17</li>
-<li>Grim, P. (1997). “The Undecidability of the Spatialized Prisoner's Dilemma.” <i>Theory and Decision</i> 42(1), pp. 53-80</li>
-<li>Grim, P. & Mar, G. (1991). “Pattern and Chaos: New Images in the Semantics of Paradox.” <i>Noûs</i> 25(5), pp. 659-93</li>
-<li>Grim, P. & St. Denis, P. (1997). “Fractal Images of Formal Systems.” <i>Journal of Philosophical Logic</i> 26(2), pp. 181-222</li>
+<li>Grim, P. (<a href="http://www.pgrim.org/pgrim/SPATIALP.HTM">1997</a>). “The Undecidability of the Spatialized Prisoner's Dilemma.” <i>Theory and Decision</i> 42(1), pp. 53-80</li>
+<li>Grim, P. & Mar, G. (<a href="http://www.pgrim.org/articles/patternandchaos.pdf">1991</a>). “Pattern and Chaos: New Images in the Semantics of Paradox.” <i>Noûs</i> 25(5), pp. 659-93</li>
+<li>Grim, P. & St. Denis, P. (<a href="http://www.pgrim.org/fractal/index.html">1997</a>). “Fractal Images of Formal Systems.” <i>Journal of Philosophical Logic</i> 26(2), pp. 181-222</li>
 <li>Grim, P., Mar, G., St. Denis, P. (1998). <i>The Philosophical Computer: Exploratory Essays in Philosophical Computer Modeling</i>. Cambridge, MA: MIT Press.</li>
 <li>Grim, P., Mar, G., Neiger, M., St. Denis, P. (1993). “Self-reference and paradox in two and three dimensions.” <i>Computers & Graphics</i> 17(5), pp. 609-12</li>
 <li>Mar, G. & St. Denis, P. (1994). “Chaos in Cooperation: Continuous-valued Prisoner's Dilemma in Infinite-valued Logic.” <i>International Journal of Bifurcation and Chaos</i> 4(4), pp. 943-58</li>
