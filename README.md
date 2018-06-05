@@ -32,5 +32,5 @@ Most of the book chapters are also published as papers, listed below.
 <li>Mar, G. & St. Denis, P. (1996). “Real Life.” <i>International Journal of Bifurcation and Chaos</i> 6(11), pp. 2077-86</li>
 <li>Mar, G. & St. Denis, P. (1999). “What the Liar Taught Achilles.” <i>Journal of Philosophical Logic</i> 28(1), pp. 29-46</li>
 <li>Stewart, I. (1993). “A Partly True Story.” <i>Scientific American</i> 268(2), pp. 110-2</li>
-<li>Stewart, I. (2000). “Logic Quasi-Fractals: A Fractal Guide to Tic-Tac-Toe.” <i>Scientific American</i> 283(2)</li>
+<li>Stewart, I. (2000). “Logic Quasi-Fractals: A Fractal Guide to Tic-Tac-Toe.” <i>Scientific American</i> 283(2), pp. 86-8</li>
 </ul>
